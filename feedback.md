@@ -1,5 +1,5 @@
 
-Feedback from Docker Innovation Day, Barcelona, Nov. 2015
+#Feedback from Docker Innovation Day, Barcelona, Nov. 2015
 
 - Find a way to chat with more ppl in one channel, how to separate conversations in a multi ppl conversation
 - Can you integrate conversations with other channels
