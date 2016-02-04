@@ -6,7 +6,7 @@ This is the home of the Ruxit chatbot kit which will get you started accessing t
 
 Clone this repository
 
-``` git clone  https://github.com/ruxit/chatbot-kit/ ````
+``` git clone  https://github.com/ruxit/chatbot-kit/ ```
 
 Download all dependencies using npm
 
