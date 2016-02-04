@@ -1,0 +1,21 @@
+{
+  "name": "RuxitChatBot",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Ruxit",
+  "description": "Ruxit ChatBot",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "botkit": "0.0.5",
+    "debug": "2.2.0",
+    "eventemitter2": "0.4.14",
+    "express": "^4.13.3",
+    "jfs": "^0.2.6",
+    "mustache": "^2.2.1",
+    "request": "^2.67.0",
+    "ws": "^1.0.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
