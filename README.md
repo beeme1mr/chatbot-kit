@@ -1,4 +1,4 @@
-# The ruxit chat bot kit for slack
+# The Ruxit chat bot kit for Slack
 
 This is the home of the Ruxit chatbot kit which will get you started accessing the Ruxit AI layer using natural language from Slack
 
