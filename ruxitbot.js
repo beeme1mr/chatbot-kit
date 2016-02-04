@@ -45,7 +45,6 @@ to dialog with the Ruxit intelligent full stack APM monitoring system.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
-console.log("Reading environment variables");
 
 if (!process.env.token) {
     console.log('Error: Specify Slack API token in environment');
@@ -63,7 +62,7 @@ if (!process.env.rxenv) {
 }
 
 
-var rxcluster = process.env.token;
+var rxcluster = ".live.ruxit.com";
 var rxenv = process.env.rxkey;
 var rxkey = process.env.rxenv;
 
@@ -72,7 +71,7 @@ var os = require('os');
 var https = require('https');
 
 var controller = Botkit.slackbot({
-    debug: true,
+    debug: false,
 });
 
 var bot = controller.spawn({
