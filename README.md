@@ -1,5 +1,13 @@
-# chatops
+# The ruxit chat bot kit for slack
 
-This is the home of the monitoring chatops client. The project is used to develop of proof of concept for integrating monitoring data intelligently into chat applications like Slack, Hipchat or IRC.
+This is the home of the Ruxit chatbot kit which will get you started accessing the Ruxit AI layer using natural language from Slack
 
-The prototype is based on the hubot chat client.
+## Getting started
+
+Clone this repository
+
+``` git clone  https://github.com/ruxit/chatbot-kit/ ````
+
+Download all dependencies using npm
+
+```npm install```
