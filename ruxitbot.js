@@ -62,9 +62,9 @@ if (!process.env.rxenv) {
 }
 
 
-var rxcluster = ".live.ruxit.com";
-var rxenv = process.env.rxkey;
-var rxkey = process.env.rxenv;
+var rxcluster = "live.ruxit.com";
+var rxkey = process.env.rxkey;
+var rxenv = process.env.rxenv;
 
 var Botkit = require('Botkit');
 var os = require('os');
